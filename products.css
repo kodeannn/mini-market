@@ -3,78 +3,34 @@ body {
     min-width: 320px;
     margin-right: 10px;
     background-color: rgb(25, 25, 126);
+    
 }
 
+
+
+
 p { 
-    font-size: small;
+    font-size: 10px;
     margin: 1px;
 }
 
 div { 
-    height: 200px;
-    width:150px;
+    height: 150x;
+    width: 100px;
     background-color: grey;
     margin: 10px;
     display: inline-block;
     
 }
 
-.row1 img { 
-    height: 150px;
-    width: 150px;
+.row1 img, .row2 img, .row3 img, .row4 img, .row5 img { 
+    height: 100px;
+    width: 100px;
     border-radius: 15px;
 }
 
-.row1 { 
+.row1, .row2, .row3, .row4, .row5 { 
     border-radius: 15px;
     margin-top: 0;
     padding: 10px;
-}
-
-.row2 { 
-    border-radius: 15px;
-    margin-top: 0;
-    padding: 10px; 
-}
-
-.row2 img { 
-    height: 150px;
-    width: 150px;
-    border-radius: 15px;
-}
-
-.row3 { 
-    border-radius: 15px;
-    margin-top: 0;
-    padding: 10px; 
-}
-
-.row3 img { 
-    height: 150px;
-    width: 150px;
-    border-radius: 15px;
-}
-
-.row4 { 
-    border-radius: 15px;
-    margin-top: 0;
-    padding: 10px;  
-}
-
-.row4 img { 
-    height: 150px;
-    width: 150px;
-    border-radius: 15px;
-}
-
-.row5 { 
-    border-radius: 15px;
-    margin-top: 0;
-    padding: 10px; 
-}
-
-.row5 img { 
-    height: 150px;
-    width: 150px;
-    border-radius: 15px;
 }
